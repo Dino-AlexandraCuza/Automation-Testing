@@ -27,6 +27,7 @@ anul=1990
 print(f"{nume} {actiune} {timp} {prepozitie} {anul}")
 print(str(nume) + str(actiune) + str(timp) + str(prepozitie) + str(anul))
 print("Ana s-a nascut in anul 1990")
+print()
 
 
 "Ex_6 - Declarați câteva alte adrese de memorie la alegere și inițializați-le folosind funcția input."
